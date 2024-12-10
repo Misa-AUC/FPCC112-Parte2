@@ -1,2 +1,0 @@
-Fundamentos de Programación 
-Tema: Archivos en C++
